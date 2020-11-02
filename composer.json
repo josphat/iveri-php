@@ -1,17 +1,4 @@
 {
-    "name": "josphat/iveri-php",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Josphat Mwangi",
-            "email": "josphatmn@gmail.com",
-            "homepage": "https://github.com/josphat",
-            "role": "Developer"
-        }
-    ],
-    "description": "Wrapper around Iveri API",
-    "keywords": ["iveri"],
     "require": {
         "php": ">=5.6.4",
         "guzzlehttp/guzzle": "^6.2",
@@ -35,6 +22,5 @@
     },
     "config": {
         "bin-dir": "vendor/bin"
-    },
-    "minimum-stability": "stable"
+    }
 }
