@@ -4,9 +4,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Stephen Lake",
-            "email": "chriskivaze@gmail.com",
-            "homepage": "https://github.com/chriskivaze",
+            "name": "Josphat Mwangi",
+            "email": "josphatmn@gmail.com",
+            "homepage": "https://github.com/josphat",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "ChrisKivaze\\Iveri\\": "src"
+            "Josphat\\Iveri\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ChrisKivaze\\Iveri\\": "src"
+            "Josphat\\Iveri\\": "src"
         }
     },
     "config": {
